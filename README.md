@@ -1,3 +1,6 @@
+Link to the GitHub: https://github.com/HTEC-interview/qa-nikolinai
+Visual Studio 2019
+
 The application is a set of automated tests that test the manipulation of use cases in the sendbbos application.
 
 The application contains 5 tests:
